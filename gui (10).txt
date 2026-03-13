@@ -6,9 +6,9 @@ local Config = {
     can_resize  = true,
 
     title_bar   = {
-        Color3.fromRGB(45,  5,  95),
-        Color3.fromRGB(100, 20, 200),
-        Color3.fromRGB(60, 10, 130),
+        Color3.fromRGB(139,  0,  0),
+        Color3.fromRGB(139, 0, 0),
+        Color3.fromRGB(139, 0, 0),
     },
     background  = {
         Color3.fromRGB(15,  6,  30),
